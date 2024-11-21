@@ -1,0 +1,94 @@
+.body {
+    background-color: white;
+    margin: auto 0px;
+    display: flex;
+}
+.divbig {
+    width: 100%;
+    height: 2400px;
+    border: 1px solid black;
+    background: linear-gradient(Snow,BurlyWood);
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   
+}
+.opisanie {
+    width: 60%;
+    height: 80px;
+    min-width: 600px;
+    background-color: BurlyWood;
+    margin-top: 15px;
+    border-radius: 50px;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.ores {
+    width: 80%;
+    height: 270px;
+    margin-top: 100px;
+    min-width: 550px;
+    display: flex; 
+    flex-direction: column;
+
+}
+.ores1 {
+    width: 100%;
+    height: 60px;
+    font-size: 50px;
+    margin: auto;
+}
+.text1 {
+    font-size: 20px;
+    font-family: 'Courier New', Courier;
+}
+.img {
+    width: 100%;
+    height: 1000px;
+}
+.img1 {
+    width: 100%;
+    height: 100%;
+}
+.menu {
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.ssl {
+    text-decoration: none;
+    color: black;
+}
+.ssl:hover {
+    font-size: 31px;
+    transition-duration:50ms;
+    text-shadow: 1px 0px black;
+}
+
+.footer {
+    width: 100%;
+    height: auto;
+    margin-top: 700px   ;
+    border: 1px solid black ;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    min-width: 600px;
+}
+.footer2 {
+   width: ;
+}
+.bigtext {
+    font-size: 40px;
+    font-family: fantasy;
+    margin-top: 0px;
+}
+.textn {
+    font-size: 30px;
+
+}
+.spn {
+    font-family: fantasy;
+}
